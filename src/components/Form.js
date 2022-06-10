@@ -2,7 +2,7 @@ import List from "./List";
 import {useState} from "react";
 
 const Form = () => {
-
+    //Holis
     const [buddy, setBuddy] = useState({buddy:"",id:0});
     const [buddies, setBuddies] = useState([]);
 
